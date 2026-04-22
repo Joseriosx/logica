@@ -24,5 +24,4 @@ const multiplicar = num1 * num2
 console.log('Multiplicar: '+multiplicar)
 const dividir = num1 / num2
 console.log('Dividir: '+dividir)
-const operacao = num1 * num2 + num3
-console.log('Operção: '+operacao)
+const operacao = num1 * num2 + num3console.log('Operção: '+operacao)
