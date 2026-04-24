@@ -29,6 +29,7 @@ while (enquanto === true) {
 		case "1":
 			console.log('Aplicação encerrada!!')
 			enquanto = false
+			break
 		default:
 			console.log('Digite um operador válido!')
 			break
